@@ -15,13 +15,12 @@ export default function Disclaimer() {
             <div>
               <h3 className="text-red-500/80 font-bold text-sm uppercase tracking-wider mb-3">Disclaimer</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                <span className="font-semibold text-gray-500">Note: tiger365now.com is an informational website only and does not offer betting services.</span>{' '}
-                This website is intended solely for informational and educational purposes. We do not operate a betting or gambling platform. 
-                We facilitate the provision of online gaming IDs and do not directly engage in any form of sports betting or wagering. 
-                Users are solely responsible for ensuring that accessing such services is legal in their respective jurisdictions. 
-                We are not liable for any financial losses, legal issues, or other consequences arising from the use of gaming IDs obtained through our platform. 
-                Please verify the legality of online betting in your region before proceeding. By using this website, you acknowledge 
-                and agree to this disclaimer. Gambling can be addictive — please bet responsibly.
+                <span className="font-semibold text-gray-500">Heads up: tiger365now.com is just an informational site—we don't run a betting service ourselves.</span>{' '}
+                Everything here is meant for informational and educational purposes. We aren't a gambling platform; we just help you get online gaming IDs.
+                We aren't directly involved in the betting or wagering itself. It's totally up to you to check if using these kinds of services is legal where you live.
+                We can't be held responsible for any money you might lose, any legal trouble you run into, or anything else that happens from using IDs you got through us.
+                Please double-check your local laws before you dive in. By sticking around and using this site, you're agreeing to this disclaimer.
+                Remember, gambling can be addictive, so always play it safe and bet responsibly.
               </p>
             </div>
           </div>

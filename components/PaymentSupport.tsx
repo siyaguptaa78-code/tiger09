@@ -1,15 +1,15 @@
 'use client';
 
 const supportBullets = [
-  { icon: '👤', title: 'Personalized Assistance', desc: 'Dedicated agents assigned to your account for tailored support.' },
-  { icon: '🕐', title: '24/7 Support', desc: 'Round-the-clock availability via WhatsApp, chat, and call.' },
-  { icon: '📞', title: 'Multiple Contact Options', desc: 'Reach us via WhatsApp, Telegram, or email anytime.' },
+  { icon: '👤', title: 'Your Own Personal Guide', desc: 'We assign dedicated agents to your account so you always know who you\'re talking to.' },
+  { icon: '🕐', title: 'We Never Sleep', desc: 'Literally. Reach out via WhatsApp, chat, or call whenever you need us.' },
+  { icon: '📞', title: 'Always Reachable', desc: 'Hit us up on WhatsApp, Telegram, or email—whatever works best for you.' },
 ];
 
 const paymentBullets = [
-  { icon: '⚡', title: 'Fast Transactions', desc: 'Deposits credited within minutes, withdrawals processed same day.' },
-  { icon: '🌍', title: 'Local Currency Support', desc: 'All transactions in Indian Rupees with local bank support.' },
-  { icon: '₹', title: 'INR Accepted', desc: 'Full support for INR with no currency conversion fees.' },
+  { icon: '⚡', title: 'Lightning Fast', desc: 'Deposits hit your account in minutes. Withdrawals are processed the same day. No waiting around.' },
+  { icon: '🌍', title: 'Local Banking', desc: 'Everything is done in Indian Rupees directly through your local bank.' },
+  { icon: '₹', title: 'No Hidden Fees', desc: 'We fully support INR, meaning you never have to worry about annoying conversion fees.' },
 ];
 
 export default function PaymentSupport() {
@@ -22,9 +22,9 @@ export default function PaymentSupport() {
             Payments & Support
           </span>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white leading-tight">
-            Fast and Reliable{' '}
-            <span className="text-red-500">Payment Methods</span>{' '}
-            Available
+            Fast, Reliable{' '}
+            <span className="text-red-500">Payments</span>{' '}
+            & Always-On Support
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-amber-400 rounded-full mx-auto mt-4"></div>
         </div>

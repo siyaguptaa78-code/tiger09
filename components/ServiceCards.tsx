@@ -5,27 +5,27 @@ import { WA_LINK } from './constants';
 const serviceCards = [
   {
     id: 'customer-service',
-    title: '24*7 Customer Service',
-    description: 'Our expert support team is available round the clock. Get instant assistance for any queries, account issues, or betting help.',
+    title: 'Support That Never Sleeps',
+    description: 'Our support crew is always awake and ready to help out. Whether you have a quick question or need help with a bet, we\'re just a message away.',
     emoji: '🎧',
     badge: '24/7 Live',
-    features: ['Instant WhatsApp Support', 'Quick Response Time', 'Expert Assistance'],
+    features: ['Instant WhatsApp Support', 'Fast Replies', 'Friendly Experts'],
   },
   {
     id: 'deposit-withdrawal',
-    title: 'Easy Deposit and Withdrawal',
-    description: 'Experience lightning-fast transactions with multiple payment options. UPI, IMPS, and bank transfers accepted. INR supported.',
+    title: 'Fast & Simple Payments',
+    description: 'Moving your money shouldn\'t be a hassle. Enjoy lightning-fast deposits and withdrawals using your favorite local payment methods.',
     emoji: '💸',
     badge: 'Fast & Secure',
-    features: ['UPI / IMPS / Bank Transfer', 'INR Supported', 'Instant Processing'],
+    features: ['UPI / IMPS / Bank Transfer', 'Fully Supports INR', 'Instant Processing'],
   },
   {
     id: 'bonus',
-    title: 'Bonus & Rewards',
-    description: 'Earn exciting bonuses on every deposit, referral, and milestone. Our loyalty program rewards consistent players generously.',
+    title: 'Awesome Bonuses & Rewards',
+    description: 'We love giving back. Score great bonuses on your deposits, get rewarded for bringing friends, and enjoy regular cashbacks if you\'re a regular.',
     emoji: '🎁',
     badge: 'Exclusive',
-    features: ['Welcome Bonus', 'Referral Rewards', 'Weekly Cashback'],
+    features: ['Sweet Welcome Bonus', 'Referral Cash', 'Weekly Cashback'],
   },
 ];
 

@@ -6,33 +6,33 @@ import { WA_LINK } from './constants';
 const faqs = [
   {
     id: 'whatsapp-number',
-    question: "Where can I find the Tiger365ID WhatsApp number?",
+    question: "How do I get the Tiger365ID WhatsApp number?",
     answer:
-      "You can find our Tiger365 ID WhatsApp number directly on this website. Simply click any of the 'GET TIGER 365 ID' buttons and you will be redirected to our official WhatsApp where our team is available 24/7. Our number is +91 85578 77879. Please save this number and reach out for instant account setup.",
+      "It's super easy—just click any of the 'GET TIGER 365 ID' buttons on this page. They'll take you straight to our official WhatsApp where someone is always waiting to help you out. You can also save our number manually: +91 85578 77879. Shoot us a text whenever you're ready to get set up.",
   },
   {
     id: 'multiple-platforms',
-    question: "Can I access multiple platforms with a Tiger365ID account?",
+    question: "Does one Tiger365ID work on different platforms?",
     answer:
-      "Yes! Tiger365 ID provides access to multiple top-rated betting exchanges and platforms. With a single ID, you can access cricket betting, football, live casino games, Aviator, Teen Patti, and much more. Our team will guide you on how to use your Tiger365 ID across different platforms seamlessly.",
+      "You bet. One single Tiger365 ID is your all-access pass to a bunch of top betting exchanges and platforms. Whether you want to bet on a cricket match, play live casino games, or try your luck at Aviator or Teen Patti, we've got you covered. If you need help jumping between platforms, just ask our support team.",
   },
   {
     id: 'service-247',
-    question: "What does Tiger365ID 24/7 service mean?",
+    question: "Are you guys really available 24/7?",
     answer:
-      "Our 24/7 service means our customer support team is available 24 hours a day, 7 days a week, including weekends and holidays. Whether you have a query at 3 AM or need deposit assistance during a live match, our team is always ready to assist you via WhatsApp, Telegram, or phone call.",
+      "Yes, literally! Our support crew is online 24 hours a day, 7 days a week, 365 days a year (including weekends and holidays). So if you're up watching a match at 3 AM and need help making a deposit, we're right here waiting on WhatsApp, Telegram, or a phone call.",
   },
   {
     id: 'secure-login',
-    question: "Is the Tiger365ID login secure?",
+    question: "How safe is my Tiger365ID login?",
     answer:
-      "Absolutely. Security is our highest priority. All Tiger365 ID accounts are protected by industry-standard SSL encryption and multi-factor authentication. Your credentials and financial data are fully encrypted and never shared with third parties. We regularly audit our security systems to ensure maximum protection for all our users.",
+      "It's incredibly safe. We treat security as our number one priority. Every Tiger365 ID account is locked down with industry-standard encryption and extra authentication layers. Your personal info and money are completely encrypted and never given to anyone else. We're constantly checking our systems to make sure you're protected.",
   },
   {
     id: 'cricket-aviator',
-    question: "Can I play Cricket ID and Aviator games with Tiger365ID?",
+    question: "Can I bet on Cricket and play Aviator with my ID?",
     answer:
-      "Yes! Tiger365 ID gives you full access to live cricket betting as well as popular crash games like Aviator. Our platform supports a wide variety of betting options including IPL, T20 World Cup, domestic leagues, and international matches. You can also enjoy Aviator, Dragon Tiger, Roulette, and other exciting casino games — all with a single Tiger365 ID.",
+      "Absolutely! Your Tiger365 ID gives you the keys to both. You can jump from betting on IPL and World Cup matches straight into playing popular crash games like Aviator. You'll also get access to Dragon Tiger, Roulette, and a ton of other awesome casino games.",
   },
 ];
 

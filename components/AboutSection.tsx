@@ -21,29 +21,21 @@ export default function AboutSection() {
 
             <div className="space-y-5 text-gray-400 text-base leading-relaxed">
               <p>
-                Tiger 365 ID is your trusted partner for online gaming and sports betting IDs in India.
-                We specialize in providing official access credentials to leading betting exchanges and sports platforms,
-                giving you the ability to enjoy cricket, football, tennis, and many more sports with complete peace of mind.
+                If you're looking for a reliable place to get your online gaming and sports betting IDs in India, you're in the right spot.
+                We hook you up with official access to the best betting exchanges and sports platforms around,
+                so you can bet on cricket, football, tennis, and pretty much anything else without worrying about a thing.
               </p>
 
               <p>
-                Our platform provides seamless and secure access to premium sports betting experiences. Whether you are a
-                seasoned bettor or new to the world of sports gaming, Tiger365 ID offers a straightforward and transparent
-                process to get you started. Simply contact us via WhatsApp and our team will set up your account within minutes.
+                We make getting into premium sports betting as smooth and safe as possible. It honestly doesn't matter if you've been doing this for years or if you're just placing your first bet—Tiger365 ID keeps it simple and totally transparent. Just shoot us a message on WhatsApp and our team will have you ready to go in minutes.
               </p>
 
               <p>
-                With Tiger365 ID, you gain access to live cricket betting, real-time odds, and a massive selection of
-                casino games and virtual sports. Our 24/7 availability ensures that no matter the time zone or match schedule,
-                you are always covered. Our customer care team is always on standby to assist you with deposits, withdrawals,
-                and any account issues.
+                Once you have your Tiger365 ID, you're looking at live cricket betting, up-to-the-second odds, and a huge variety of casino games and virtual sports. We never sleep, literally, so it doesn't matter what time your match is playing. Need help adding funds, cashing out, or just got a question? Our support crew is always around to help.
               </p>
 
               <p>
-                Security is our top priority. We use advanced encryption and authentication technologies to ensure that your
-                account details and transactions remain completely private and protected. We support all major Indian payment
-                methods including UPI, IMPS, and bank transfers, with INR as the primary currency, making deposits and
-                withdrawals quick, easy, and hassle-free.
+                We don't mess around when it comes to security. We use top-notch encryption to make sure your info and money are locked down tight. Plus, we accept all the usual Indian payment methods—UPI, IMPS, bank transfers—and everything is in INR, so moving your money around is fast and stress-free.
               </p>
             </div>
 
