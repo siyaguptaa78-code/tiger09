@@ -7,6 +7,19 @@ import { WA_LINK } from '@/components/constants';
 export const metadata: Metadata = {
   title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
   description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+  alternates: {
+    canonical: '/blog',
+  },
+  openGraph: {
+    title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
+    description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+    url: 'https://tiger365now.com/blog',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Blog – Tiger 365 ID | Cricket Betting Tips & News',
+    description: 'Read the latest cricket betting tips, strategies, and news from Tiger365 ID. Stay updated with IPL, T20 World Cup, and sports betting insights.',
+  },
 };
 
 const blogPosts = [
@@ -80,7 +93,7 @@ export default function BlogPage() {
       {/* Info banner */}
       <div className="w-full bg-red-950/60 border-b border-red-500/20 py-2 px-4 text-center">
         <p className="text-xs text-red-300/80">
-          <span className="font-semibold">Note:</span> tigerredbook.com is an informational website only and does not offer betting services.
+          <span className="font-semibold">Note:</span> tiger365now.com is an informational website only and does not offer betting services.
         </p>
       </div>
 
