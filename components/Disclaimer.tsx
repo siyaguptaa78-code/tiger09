@@ -15,11 +15,11 @@ export default function Disclaimer() {
             <div>
               <h3 className="text-red-500/80 font-bold text-sm uppercase tracking-wider mb-3">Disclaimer</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
-                <span className="font-semibold text-gray-500">Heads up: tiger365now.com is just an informational site—we don't run a betting service ourselves.</span>{' '}
-                Everything here is meant for informational and educational purposes. We aren't a gambling platform; we just help you get online gaming IDs.
-                We aren't directly involved in the betting or wagering itself. It's totally up to you to check if using these kinds of services is legal where you live.
-                We can't be held responsible for any money you might lose, any legal trouble you run into, or anything else that happens from using IDs you got through us.
-                Please double-check your local laws before you dive in. By sticking around and using this site, you're agreeing to this disclaimer.
+                <span className="font-semibold text-gray-500">Heads up: tiger365now.com is just an informational site—we don&apos;t run a betting service ourselves.</span>{' '}
+                Everything here is meant for informational and educational purposes. We aren&apos;t a gambling platform; we just help you get online gaming IDs.
+                We aren&apos;t directly involved in the betting or wagering itself. It&apos;s totally up to you to check if using these kinds of services is legal where you live.
+                We can&apos;t be held responsible for any money you might lose, any legal trouble you run into, or anything else that happens from using IDs you got through us.
+                Please double-check your local laws before you dive in. By sticking around and using this site, you&apos;re agreeing to this disclaimer.
                 Remember, gambling can be addictive, so always play it safe and bet responsibly.
               </p>
             </div>

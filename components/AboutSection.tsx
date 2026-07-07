@@ -21,21 +21,21 @@ export default function AboutSection() {
 
             <div className="space-y-5 text-gray-400 text-base leading-relaxed">
               <p>
-                If you're looking for a reliable place to get your online gaming and sports betting IDs in India, you're in the right spot.
+                If you&apos;re looking for a reliable place to get your online gaming and sports betting IDs in India, you&apos;re in the right spot.
                 We hook you up with official access to the best betting exchanges and sports platforms around,
                 so you can bet on cricket, football, tennis, and pretty much anything else without worrying about a thing.
               </p>
 
               <p>
-                We make getting into premium sports betting as smooth and safe as possible. It honestly doesn't matter if you've been doing this for years or if you're just placing your first bet—Tiger365 ID keeps it simple and totally transparent. Just shoot us a message on WhatsApp and our team will have you ready to go in minutes.
+                We make getting into premium sports betting as smooth and safe as possible. It honestly doesn&apos;t matter if you&apos;ve been doing this for years or if you&apos;re just placing your first bet—Tiger365 ID keeps it simple and totally transparent. Just shoot us a message on WhatsApp and our team will have you ready to go in minutes.
               </p>
 
               <p>
-                Once you have your Tiger365 ID, you're looking at live cricket betting, up-to-the-second odds, and a huge variety of casino games and virtual sports. We never sleep, literally, so it doesn't matter what time your match is playing. Need help adding funds, cashing out, or just got a question? Our support crew is always around to help.
+                Once you have your Tiger365 ID, you&apos;re looking at live cricket betting, up-to-the-second odds, and a huge variety of casino games and virtual sports. We never sleep, literally, so it doesn&apos;t matter what time your match is playing. Need help adding funds, cashing out, or just got a question? Our support crew is always around to help.
               </p>
 
               <p>
-                We don't mess around when it comes to security. We use top-notch encryption to make sure your info and money are locked down tight. Plus, we accept all the usual Indian payment methods—UPI, IMPS, bank transfers—and everything is in INR, so moving your money around is fast and stress-free.
+                We don&apos;t mess around when it comes to security. We use top-notch encryption to make sure your info and money are locked down tight. Plus, we accept all the usual Indian payment methods—UPI, IMPS, bank transfers—and everything is in INR, so moving your money around is fast and stress-free.
               </p>
             </div>
 

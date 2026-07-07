@@ -30,7 +30,7 @@ export default function TeamSection() {
         </h2>
 
         <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed mb-12">
-          Our crew of gaming experts and support pros are literally here 24/7 to make sure you have a great time. Whether you just need help setting up an account or you're looking for live betting advice — we&apos;re with you every step of the way.
+          Our crew of gaming experts and support pros are literally here 24/7 to make sure you have a great time. Whether you just need help setting up an account or you&apos;re looking for live betting advice — we&apos;re with you every step of the way.
         </p>
 
         {/* Team avatars */}
