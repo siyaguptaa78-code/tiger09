@@ -22,7 +22,30 @@ export const metadata: Metadata = {
   },
 };
 
-const blogPosts = [
+interface BlogPost {
+  id: string;
+  title: string;
+  excerpt: string;
+  category: string;
+  date: string;
+  readTime: string;
+  emoji: string;
+  color: string;
+  customHref?: string;
+}
+
+const blogPosts: BlogPost[] = [
+  {
+    id: 'ipl-orange-cap-purple-cap-winners',
+    title: 'IPL Orange Cap & Purple Cap Winners (2008–2026)',
+    excerpt: "Every IPL Orange Cap and Purple Cap winner from 2008 to 2026 — including Vaibhav Sooryavanshi's record-breaking 2026 season. Full year-by-year lists with runs and wickets.",
+    category: 'IPL Records',
+    date: 'July 10, 2026',
+    readTime: '5 min read',
+    emoji: '🧢',
+    color: 'from-orange-600/30 to-black',
+    customHref: '/ipl-orange-cap-purple-cap-winners',
+  },
   {
     id: 'ipl-betting-tips-2024',
     title: 'Top IPL Betting Tips for 2026 Season',
@@ -160,7 +183,7 @@ export default function BlogPage() {
                   <div className="flex items-center justify-between pt-4 border-t border-gray-800">
                     <span className="text-gray-700 text-xs">{post.date}</span>
                     <Link
-                      href={`/blog/${post.id}`}
+                      href={post.customHref || `/blog/${post.id}`}
                       className="text-red-500 hover:text-red-400 text-sm font-medium transition-colors flex items-center gap-1"
                     >
                       Read More
