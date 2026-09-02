@@ -5,34 +5,64 @@ import { WA_LINK } from './constants';
 
 const faqs = [
   {
-    id: 'whatsapp-number',
-    question: "How do I get the Tiger365ID WhatsApp number?",
+    id: 'q1',
+    question: "What is Tiger365?",
     answer:
-      "It's super easy—just click any of the 'GET TIGER 365 ID' buttons on this page. They'll take you straight to our official WhatsApp where someone is always waiting to help you out. You can also save our number manually: +91 85578 77879. Shoot us a text whenever you're ready to get set up.",
+      "Tiger365 is the brand or website referenced on this domain. Check the site's current pages and terms for the latest information.",
   },
   {
-    id: 'multiple-platforms',
-    question: "Does one Tiger365ID work on different platforms?",
+    id: 'q2',
+    question: "How does a Tiger365 ID work?",
     answer:
-      "You bet. One single Tiger365 ID is your all-access pass to a bunch of top betting exchanges and platforms. Whether you want to bet on a cricket match, play live casino games, or try your luck at Aviator or Teen Patti, we've got you covered. If you need help jumping between platforms, just ask our support team.",
+      "An account ID is generally used to identify a user account. Refer to Tiger365's current account instructions and terms for the exact process.",
   },
   {
-    id: 'service-247',
-    question: "Are you guys really available 24/7?",
+    id: 'q3',
+    question: "How can I access Tiger365?",
     answer:
-      "Yes, literally! Our support crew is online 24 hours a day, 7 days a week, 365 days a year (including weekends and holidays). So if you're up watching a match at 3 AM and need help making a deposit, we're right here waiting on WhatsApp, Telegram, or a phone call.",
+      "Use the site's current official URL and verify the domain before entering any account information. Follow the access instructions published on the site.",
   },
   {
-    id: 'secure-login',
-    question: "How safe is my Tiger365ID login?",
+    id: 'q4',
+    question: "What sports are available on Tiger365?",
     answer:
-      "It's incredibly safe. We treat security as our number one priority. Every Tiger365 ID account is locked down with industry-standard encryption and extra authentication layers. Your personal info and money are completely encrypted and never given to anyone else. We're constantly checking our systems to make sure you're protected.",
+      "Available sports can change. Check the current sports or betting section on the website for the latest list and availability.",
   },
   {
-    id: 'cricket-aviator',
-    question: "Can I bet on Cricket and play Aviator with my ID?",
+    id: 'q5',
+    question: "Does Tiger365 provide live sports information?",
     answer:
-      "Absolutely! Your Tiger365 ID gives you the keys to both. You can jump from betting on IPL and World Cup matches straight into playing popular crash games like Aviator. You'll also get access to Dragon Tiger, Roulette, and a ton of other awesome casino games.",
+      "Check the site's current sports section for any live-event information and the terms that apply to its use.",
+  },
+  {
+    id: 'q6',
+    question: "How can I get help with my Tiger365 account?",
+    answer:
+      "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts.",
+  },
+  {
+    id: 'q7',
+    question: "How do I find Tiger365 login information?",
+    answer:
+      "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel.",
+  },
+  {
+    id: 'q8',
+    question: "What payment options are supported?",
+    answer:
+      "Use the contact or support details published on the website. Avoid relying on unofficial accounts or third-party contacts.",
+  },
+  {
+    id: 'q9',
+    question: "What should I do if I have trouble accessing my account?",
+    answer:
+      "Use the official domain and follow the current login or access instructions. If access fails, use the site's published support channel.",
+  },
+  {
+    id: 'q10',
+    question: "Where can I find the latest Tiger365 updates?",
+    answer:
+      "Refer to Tiger365's current website information and terms for the most accurate answer.",
   },
 ];
 
