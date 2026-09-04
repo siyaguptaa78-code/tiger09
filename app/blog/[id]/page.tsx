@@ -7,6 +7,102 @@ import { WA_LINK } from '@/components/constants';
 
 const blogPosts = [
   {
+    id: 'asian-games-2026-campaign',
+    title: 'India’s Asian Games Campaign Takes Shape as Athletes Prepare for Aichi-Nagoya 2026',
+    excerpt: "India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event will bring together athletes from across Asia, with India competing in disciplines beyond cricket.",
+    category: 'Sports News',
+    date: 'September 4, 2026',
+    readTime: '6 min read',
+    emoji: '🏅',
+    color: 'from-blue-900/30 to-black',
+    content: `
+      <p class="mb-6">India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event, scheduled from September 19 to October 4, will bring together athletes from across Asia, with India expected to compete in a broad range of disciplines.</p>
+
+      <p class="mb-6">For Indian sports fans, the Games will offer far more than cricket. Athletics, shooting, boxing, badminton, hockey and several other disciplines are expected to attract attention as Indian athletes look to build on the country's performances at previous editions.</p>
+
+      <p class="mb-6">The 2026 Asian Games will feature 43 sports and 469 medal events, creating numerous opportunities for India's large contingent to compete for podium finishes. (<a href="https://www.olympics.com/en/news/asian-games-2026-sports-list?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:underline">olympics.com</a>)</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Cricket Adds Another Major Attraction</h3>
+      <p class="mb-6">Cricket will once again be one of the most closely followed sports for Indian audiences.</p>
+      <p class="mb-6">India's men's cricket team will enter the tournament from the quarterfinal stage on September 28. The team will be defending the gold medal won at the previous Asian Games.</p>
+      <p class="mb-6">The cricket competition is expected to use a relatively small playing area, with boundaries measuring approximately 65 metres. Organisers have also installed a hybrid pitch and upgraded drainage facilities to minimise weather-related interruptions. (<a href="https://timesofindia.indiatimes.com/sports/cricket/news/65m-boundaries-hybrid-pitch-inside-the-new-venue-for-indias-asian-games-campaign/articleshow/133750026.cms?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:underline">timesofindia.indiatimes.com</a>)</p>
+      <p class="mb-6">The shorter boundaries could make six-hitting an important feature of the tournament.</p>
+      <p class="mb-6">For Indian batters, this could create opportunities to attack aggressively, while bowlers will need to focus on variations and accuracy.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">A Different Challenge for the Cricket Team</h3>
+      <p class="mb-6">India's participation in the Asian Games presents an interesting selection challenge.</p>
+      <p class="mb-6">The international cricket calendar is already crowded, and selectors need to balance the demands of the tournament with other international commitments.</p>
+      <p class="mb-6">For players selected in the Asian Games squad, the event will provide an opportunity to perform in a multi-sport environment and represent India on another major stage.</p>
+      <p class="mb-6">The possibility of a high-profile India-Pakistan encounter could also increase interest if both teams progress through the competition.</p>
+      <p class="mb-6">However, knockout cricket leaves little room for error.</p>
+      <p class="mb-6">A single poor performance can end a team's medal hopes, meaning India will need to maintain concentration from the quarterfinal stage onwards.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Hockey Remains a Major Medal Hope</h3>
+      <p class="mb-6">Indian hockey will also be closely watched during the Asian Games.</p>
+      <p class="mb-6">The men's team has traditionally been among the strongest hockey sides in Asia, while the women's team has also developed into a serious continental competitor.</p>
+      <p class="mb-6">The Asian Games carry additional importance in hockey because the tournament provides direct competition against regional rivals.</p>
+      <p class="mb-6">Matches against teams such as South Korea, Japan and Malaysia can be tactically demanding, while Pakistan remains a historically significant rival.</p>
+      <p class="mb-6">India's ability to convert penalty corners, maintain possession and defend transitions could determine the team's medal prospects.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Athletics Brings Individual Opportunities</h3>
+      <p class="mb-6">Athletics could provide India with several medal opportunities.</p>
+      <p class="mb-6">The sport features numerous events, meaning success does not depend on one athlete or discipline.</p>
+      <p class="mb-6">Indian athletes will compete across track and field events, with each competitor aiming to peak at the right moment.</p>
+      <p class="mb-6">For many athletes, the Asian Games represent a crucial international test between domestic competitions and larger global championships.</p>
+      <p class="mb-6">A strong performance can also boost confidence before future Olympic cycles.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Shooting Expected to Attract Attention</h3>
+      <p class="mb-6">Shooting has become one of India's strongest medal-producing disciplines at major international events.</p>
+      <p class="mb-6">Indian shooters will face intense competition in Aichi-Nagoya, but the depth of the country's shooting programme provides reasons for optimism.</p>
+      <p class="mb-6">Unlike some team sports, shooting competitions can produce several medal opportunities within a single day.</p>
+      <p class="mb-6">However, the pressure is immense.</p>
+      <p class="mb-6">A small technical error can affect an athlete's ranking, making concentration and mental preparation essential.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Boxing Preparation Intensifies</h3>
+      <p class="mb-6">Indian boxers have also been undergoing extensive preparation.</p>
+      <p class="mb-6">A multinational training camp has been organised at the Netaji Subhas National Institute of Sports in Patiala, with Indian boxers expected to continue preparations in Nagoya before the competition begins. (<a href="https://www.ndtv.com/topic/asian-games-2026?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:underline">ndtv.com</a>)</p>
+      <p class="mb-6">Training alongside international competitors can help India's boxers prepare for different fighting styles.</p>
+      <p class="mb-6">The final weeks will be focused on balancing training intensity and recovery.</p>
+      <p class="mb-6">Boxing tournaments can be physically demanding, and athletes need to arrive at the event without unnecessary fatigue.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Badminton Continues to Grow</h3>
+      <p class="mb-6">Badminton has also become a major part of India's sporting identity.</p>
+      <p class="mb-6">The emergence of world-class Indian players over the past decade has increased expectations at multi-sport events.</p>
+      <p class="mb-6">Singles and doubles competitions offer multiple medal opportunities, although the depth of Asian badminton means competition will be extremely strong.</p>
+      <p class="mb-6">China, Japan, Indonesia, South Korea and other nations have traditionally produced elite players.</p>
+      <p class="mb-6">For India, success will depend on both established names and emerging competitors handling the pressure of knockout competition.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">The Importance of Young Athletes</h3>
+      <p class="mb-6">One of the most valuable aspects of the Asian Games is the opportunity it provides to younger athletes.</p>
+      <p class="mb-6">Not every competitor arrives with medal expectations.</p>
+      <p class="mb-6">For some, simply reaching the event represents an important career milestone.</p>
+      <p class="mb-6">Competing against experienced international athletes can accelerate development and provide lessons that cannot be gained through domestic competitions alone.</p>
+      <p class="mb-6">India's long-term sporting success will depend partly on converting these experiences into future international performances.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Predictions Can Only Go So Far</h3>
+      <p class="mb-6">With the Asian Games approaching, discussion around medal forecasts and predictions is naturally increasing.</p>
+      <p class="mb-6">India's previous performances can provide useful indicators, but they cannot guarantee future results.</p>
+      <p class="mb-6">Sport is unpredictable, particularly in individual events where injuries, draws, weather conditions and performance on a particular day can change the outcome.</p>
+      <p class="mb-6">The same applies to team sports.</p>
+      <p class="mb-6">A strong side can still be eliminated after one poor performance in a knockout competition.</p>
+      <p class="mb-6">For supporters following predictions, the most useful approach is to consider them as probability-based assessments rather than certain outcomes.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">India's Broader Sporting Ambition</h3>
+      <p class="mb-6">The Asian Games represent an important part of India's wider sporting development.</p>
+      <p class="mb-6">While cricket receives the greatest attention in the country, success across multiple sports is increasingly becoming part of India's sporting identity.</p>
+      <p class="mb-6">Medals in shooting, athletics, boxing, badminton and hockey can inspire young athletes to pursue disciplines that traditionally received less mainstream attention.</p>
+      <p class="mb-6">The multi-sport nature of the Asian Games therefore provides an opportunity to showcase the breadth of Indian talent.</p>
+
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">A Month to Remember</h3>
+      <p class="mb-6">The Aichi-Nagoya Asian Games will provide Indian athletes with another opportunity to compete at the highest level in Asia.</p>
+      <p class="mb-6">Cricket will draw enormous attention, particularly because India are defending champions. Hockey, athletics, shooting, boxing and badminton could provide additional medal opportunities.</p>
+      <p class="mb-6">For the athletes, the focus will now shift from preparation to execution.</p>
+      <p class="mb-6">The coming weeks will reveal which competitors can handle the pressure, adapt to the conditions and produce their best performances when medals are at stake.</p>
+      <p class="mb-6">For Indian fans, September promises an exciting sporting period — one where established champions can strengthen their legacy and emerging athletes can introduce themselves to the country.</p>
+      <p class="mb-6">The Asian Games are not simply about medal totals. They are also about identifying the next generation of Indian sporting stars.</p>
+    `
+  },
+  {
     id: 'ipl-betting-tips-2024',
     title: 'Top IPL Betting Tips for 2026 Season',
     excerpt: 'Get the best strategies for IPL betting this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',

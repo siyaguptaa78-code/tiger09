@@ -36,6 +36,16 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
+    id: 'asian-games-2026-campaign',
+    title: 'India’s Asian Games Campaign Takes Shape as Athletes Prepare for Aichi-Nagoya 2026',
+    excerpt: "India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event will bring together athletes from across Asia, with India competing in disciplines beyond cricket.",
+    category: 'Sports News',
+    date: 'September 4, 2026',
+    readTime: '6 min read',
+    emoji: '🏅',
+    color: 'from-blue-900/30 to-black',
+  },
+  {
     id: 'ipl-orange-cap-purple-cap-winners',
     title: 'IPL Orange Cap & Purple Cap Winners (2008–2026)',
     excerpt: "Every IPL Orange Cap and Purple Cap winner from 2008 to 2026 — including Vaibhav Sooryavanshi's record-breaking 2026 season. Full year-by-year lists with runs and wickets.",
