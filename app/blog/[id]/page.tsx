@@ -16,7 +16,7 @@ const blogPosts = [
     emoji: '🏅',
     color: 'from-blue-900/30 to-black',
     content: `
-      <p class="mb-6">India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event, scheduled from September 19 to October 4, will bring together athletes from across Asia, with India expected to compete in a broad range of disciplines.</p>
+      <p class="mb-6"><strong>New Delhi, September 4, 2026:</strong> India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event, scheduled from September 19 to October 4, will bring together athletes from across Asia, with India expected to compete in a broad range of disciplines.</p>
 
       <p class="mb-6">For Indian sports fans, the Games will offer far more than cricket. Athletics, shooting, boxing, badminton, hockey and several other disciplines are expected to attract attention as Indian athletes look to build on the country's performances at previous editions.</p>
 
