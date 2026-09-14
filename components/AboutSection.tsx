@@ -16,22 +16,22 @@ export default function AboutSection() {
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white mb-6 leading-tight">
               Tiger 365 ID:{' '}
-              <span className="text-red-500">Your Gateway</span> to Online Gaming IDs and Sports Betting
+              <span className="text-red-500">Your Gateway</span> to Online Gaming IDs and Sports Gaming
             </h2>
 
             <div className="space-y-5 text-gray-400 text-base leading-relaxed">
               <p>
-                If you&apos;re looking for a reliable place to get your online gaming and sports betting IDs in India, you&apos;re in the right spot.
-                We hook you up with official access to the best betting exchanges and sports platforms around,
-                so you can bet on cricket, football, tennis, and pretty much anything else without worrying about a thing.
+                If you&apos;re looking for a reliable place to get your online gaming and sports gaming IDs in India, you&apos;re in the right spot.
+                We hook you up with official access to the best gaming exchanges and sports platforms around,
+                so you can play on cricket, football, tennis, and pretty much anything else without worrying about a thing.
               </p>
 
               <p>
-                We make getting into premium sports betting as smooth and safe as possible. It honestly doesn&apos;t matter if you&apos;ve been doing this for years or if you&apos;re just placing your first bet—Tiger365 ID keeps it simple and totally transparent. Just shoot us a message on WhatsApp and our team will have you ready to go in minutes.
+                We make getting into premium sports gaming as smooth and safe as possible. It honestly doesn&apos;t matter if you&apos;ve been doing this for years or if you&apos;re just playing your first game—Tiger365 ID keeps it simple and totally transparent. Just shoot us a message on WhatsApp and our team will have you ready to go in minutes.
               </p>
 
               <p>
-                Once you have your Tiger365 ID, you&apos;re looking at live cricket betting, up-to-the-second odds, and a huge variety of casino games and virtual sports. We never sleep, literally, so it doesn&apos;t matter what time your match is playing. Need help adding funds, cashing out, or just got a question? Our support crew is always around to help.
+                Once you have your Tiger365 ID, you&apos;re looking at live cricket gaming, up-to-the-second odds, and a huge variety of casino games and virtual sports. We never sleep, literally, so it doesn&apos;t matter what time your match is playing. Need help adding funds, cashing out, or just got a question? Our support crew is always around to help.
               </p>
 
               <p>
@@ -72,7 +72,7 @@ export default function AboutSection() {
               <div className="relative z-10 text-center p-12">
                 <div className="text-7xl mb-4">🏏</div>
                 <div className="text-4xl font-black text-white mb-2">Tiger<span className="text-red-500">365</span> ID</div>
-                <div className="text-red-400 text-lg font-medium">Premium Online Cricket Betting IDs</div>
+                <div className="text-red-400 text-lg font-medium">Premium Online Cricket Gaming IDs</div>
                 <div className="flex justify-center gap-6 mt-8">
                   {['Cricket', 'Football', 'Casino', 'Aviator'].map((item) => (
                     <div key={item} className="text-center">

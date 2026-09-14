@@ -76,7 +76,7 @@ export default function HeroSection() {
             {/* Description */}
             <div className="animate-on-scroll opacity-0 translate-y-8 transition-all duration-700 delay-200">
               <p className="text-gray-400 text-lg leading-relaxed max-w-lg">
-                Grab your official Tiger365 ID today and jump right into the best cricket betting, live sports, and casino action out there. We keep things fast, completely secure, and our support team is always awake and ready to help you out, 24/7.
+                Grab your official Tiger365 ID today and jump right into the best cricket gaming, live sports, and casino action out there. We keep things fast, completely secure, and our support team is always awake and ready to help you out, 24/7.
               </p>
             </div>
 
@@ -157,7 +157,7 @@ export default function HeroSection() {
                     {/* App header */}
                     <div className="bg-red-600 px-4 py-4 pt-8">
                       <div className="text-white font-black text-xl text-center">Tiger365 ID</div>
-                      <div className="text-red-200 text-xs text-center mt-1">Live Cricket Betting</div>
+                      <div className="text-red-200 text-xs text-center mt-1">Live Cricket Gaming</div>
                     </div>
 
                     {/* Live match banner */}
@@ -184,9 +184,9 @@ export default function HeroSection() {
                       </div>
                     </div>
 
-                    {/* Bet options */}
+                    {/* Game options */}
                     <div className="m-3 space-y-2">
-                      <div className="text-xs text-gray-400 uppercase tracking-wider px-1">Popular Bets</div>
+                      <div className="text-xs text-gray-400 uppercase tracking-wider px-1">Match Predictions</div>
                       {[
                         { team: 'India Win', odds: '1.85', hot: true },
                         { team: 'Australia Win', odds: '2.10', hot: false },

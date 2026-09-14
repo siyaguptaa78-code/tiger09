@@ -1,8 +1,8 @@
 'use client';
 
 const services = [
-  { id: 'cricket-betting', title: 'Cricket Betting', emoji: '🏏', color: 'from-red-900/40 to-black' },
-  { id: 'football-betting', title: 'Football Betting', emoji: '⚽', color: 'from-green-900/30 to-black' },
+  { id: 'cricket-gaming', title: 'Cricket Gaming', emoji: '🏏', color: 'from-red-900/40 to-black' },
+  { id: 'football-gaming', title: 'Football Gaming', emoji: '⚽', color: 'from-green-900/30 to-black' },
   { id: 'live-casino', title: 'Live Casino', emoji: '🎰', color: 'from-purple-900/30 to-black' },
   { id: 'aviator', title: 'Aviator Game', emoji: '✈️', color: 'from-blue-900/30 to-black' },
   { id: 'teen-patti', title: 'Teen Patti', emoji: '🃏', color: 'from-red-900/30 to-black' },
@@ -23,7 +23,7 @@ export default function OurServices() {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-amber-400 rounded-full mx-auto mt-4"></div>
           <p className="text-gray-500 mt-4 max-w-xl mx-auto">
-            Access premium sports betting, live casino, and gaming all in one place with Tiger365 ID
+            Access premium sports, live casino, and gaming all in one place with Tiger365 ID
           </p>
         </div>
 

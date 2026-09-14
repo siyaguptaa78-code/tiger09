@@ -6,7 +6,7 @@ const serviceCards = [
   {
     id: 'customer-service',
     title: 'Support That Never Sleeps',
-    description: 'Our support crew is always awake and ready to help out. Whether you have a quick question or need help with a bet, we\'re just a message away.',
+    description: 'Our support crew is always awake and ready to help out. Whether you have a quick question or need help with your account, we\'re just a message away.',
     emoji: '🎧',
     badge: '24/7 Live',
     features: ['Instant WhatsApp Support', 'Fast Replies', 'Friendly Experts'],

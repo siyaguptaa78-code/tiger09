@@ -11,13 +11,7 @@ const sports = [
     id: 'football',
     title: 'FOOTBALL',
     img: 'https://placehold.co/400x500/1a1a1a/dc2626?text=FOOTBALL&font=inter',
-    description: 'Bet on Football',
-  },
-  {
-    id: 'betting',
-    title: 'BETTING',
-    img: 'https://placehold.co/400x500/1a1a1a/dc2626?text=BETTING&font=inter',
-    description: 'Smart Betting',
+    description: 'Live Football',
   },
   {
     id: 'cricket',
@@ -40,7 +34,7 @@ export default function SportsShowcase() {
             Explore <span className="text-red-500">Sports & Games</span>
           </h2>
           <p className="text-gray-500 mt-3 max-w-xl mx-auto">
-            From live cricket to football betting — all in one platform
+            From live cricket to football — all in one platform
           </p>
         </div>
 
@@ -66,7 +60,6 @@ export default function SportsShowcase() {
                     <div className="text-6xl mb-4">
                       {sport.id === 'cricket' && '🏏'}
                       {sport.id === 'football' && '⚽'}
-                      {sport.id === 'betting' && '🎲'}
                       {sport.id === 'interface' && '📱'}
                     </div>
                     <div className="w-full h-px bg-red-500/30 mb-4"></div>

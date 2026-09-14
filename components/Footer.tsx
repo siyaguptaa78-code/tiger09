@@ -19,7 +19,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-gray-600 text-sm leading-relaxed mb-6 max-w-xs">
-              Your trusted partner for online cricket betting IDs and sports gaming access in India. 
+              Your trusted partner for online cricket gaming IDs and sports gaming access in India. 
               Safe, secure, and available 24/7.
             </p>
             <a
@@ -47,7 +47,7 @@ export default function Footer() {
                 { href: '#hero', label: 'Home' },
                 { href: '#about', label: 'About Us' },
                 { href: '#our-services', label: 'Our Services' },
-                { href: '#cricket-features', label: 'Cricket Betting' },
+                { href: '#cricket-features', label: 'Cricket Gaming' },
                 { href: '#faq', label: "FAQ's" },
                 { href: '/blog', label: 'Blog' },
               ].map((link) => (
@@ -72,8 +72,8 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3">
               {[
-                'Cricket Betting ID',
-                'Football Betting ID',
+                'Cricket Gaming ID',
+                'Football Gaming ID',
                 'Live Casino ID',
                 'Aviator Game ID',
                 'Teen Patti ID',
@@ -103,7 +103,7 @@ export default function Footer() {
             Copyright © 2026 <span className="text-red-500 font-medium">Tiger 365 Id</span>. All Rights Reserved.
           </p>
           <div className="flex items-center gap-4">
-            <span className="text-gray-800 text-xs">Informational website only — does not offer betting services</span>
+            <span className="text-gray-800 text-xs">Informational website only — does not offer gaming services</span>
           </div>
         </div>
       </div>

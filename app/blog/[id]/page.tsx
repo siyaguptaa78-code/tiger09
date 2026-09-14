@@ -102,48 +102,24 @@ const blogPosts = [
       <p class="mb-6">The Asian Games are not simply about medal totals. They are also about identifying the next generation of Indian sporting stars.</p>
     `
   },
-  {
-    id: 'ipl-betting-tips-2024',
-    title: 'Top IPL Betting Tips for 2026 Season',
-    excerpt: 'Get the best strategies for IPL betting this season. Learn how to analyze team performance, pitch conditions, and player form to maximize your winnings.',
-    category: 'Cricket Betting',
-    date: 'June 1, 2026',
-    readTime: '5 min read',
-    emoji: '🏏',
-    color: 'from-red-900/30 to-black',
-    content: `
-      <p class="mb-6">The Indian Premier League (IPL) 2026 is set to be one of the most exciting tournaments in cricket history. With teams packed with international stars and emerging domestic talents, betting on IPL matches requires deep analysis and a strategic approach. Here is our comprehensive guide to help you make informed decisions and get the most out of your Tiger365 ID.</p>
-      
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">1. Understand Pitch and Weather Conditions</h3>
-      <p class="mb-6">Pitch conditions play a vital role in the outcome of T20 matches in India. Venues like Wankhede (Mumbai) and Chinnaswamy (Bengaluru) are historically high-scoring due to short boundaries and flat wickets, making them ideal for backing the team chasing. On the other hand, slow, spin-friendly pitches like Chepauk (Chennai) favor teams with quality spin bowlers and require a different strategy.</p>
-      
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">2. Analyze Player Form and Matchups</h3>
-      <p class="mb-6">Pre-match matchups are highly critical. Check head-to-head stats of key batsmen against specific bowlers. For instance, if an opening batsman struggles against left-arm fast bowling, look at the opponent's bowling attack. Using your Tiger365 exchange ID, you can capitalize on these specific matchups live as they unfold.</p>
-      
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">3. Live Betting is Key</h3>
-      <p class="mb-6">T20 cricket swings rapidly. Backing a team before the match begins might offer lower odds compared to wait-and-watch tactics. Live betting on the Tiger365 platform allows you to assess the game's tempo, the dew factor in night matches, and the exact match situation before placing your bets.</p>
-      
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">4. Manage Your Bankroll Wisely</h3>
-      <p class="mb-6">Never wager more than you can afford to lose. Set a budget for the entire IPL season and divide it into smaller units. Typically, you should not stake more than 2% to 5% of your total bankroll on a single match.</p>
-    `
-  },
+
   {
     id: 't20-world-cup-guide',
-    title: 'Complete Guide to T20 World Cup Betting',
-    excerpt: 'Everything you need to know about betting on the T20 World Cup. Markets, odds, and expert predictions to help you make informed decisions.',
+    title: 'Complete Guide to T20 World Cup Gaming',
+    excerpt: 'Everything you need to know about gaming on the T20 World Cup. Markets, odds, and expert predictions to help you make informed decisions.',
     category: 'Tournament Guide',
     date: 'May 28, 2026',
     readTime: '7 min read',
     emoji: '🏆',
     color: 'from-yellow-900/30 to-black',
     content: `
-      <p class="mb-6">The T20 World Cup brings together the best international cricket teams in the ultimate showcase of speed and skill. With matches happening in quick succession across varied international pitches, tournament betting offers a unique set of opportunities and challenges. This guide will walk you through the essential strategies for T20 World Cup betting using your Tiger365 Online ID.</p>
+      <p class="mb-6">The T20 World Cup brings together the best international cricket teams in the ultimate showcase of speed and skill. With matches happening in quick succession across varied international pitches, tournament gaming offers a unique set of opportunities and challenges. This guide will walk you through the essential strategies for T20 World Cup gaming using your Tiger365 Online ID.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">1. Spotting Value in Group Stages</h3>
-      <p class="mb-6">During the early group phases, top-tier teams often face associate nations. While the outright winner odds for the favorites will be very low, value can be found in alternative markets such as "Top Team Batsman", "Total Sixes in the Match", or "Highest Opening Partnership". Analyze the associative teams carefully—sometimes their spin bowlers can restrict bigger teams, leading to interesting under/over run-total bets.</p>
+      <p class="mb-6">During the early group phases, top-tier teams often face associate nations. While the outright winner odds for the favorites will be very low, value can be found in alternative markets such as "Top Team Batsman", "Total Sixes in the Match", or "Highest Opening Partnership". Analyze the associative teams carefully—sometimes their spin bowlers can restrict bigger teams, leading to interesting under/over run-total predictions.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">2. The Importance of Dew Factor</h3>
-      <p class="mb-6">In day-night matches, especially in subcontinental regions, dew plays a massive role in the second innings. It makes the ball slippery, making spin bowling difficult and helping batsmen hit the ball easily. Historically, teams winning the toss choose to bowl first in such conditions. Factor this into your live betting strategy on Tiger365.</p>
+      <p class="mb-6">In day-night matches, especially in subcontinental regions, dew plays a massive role in the second innings. It makes the ball slippery, making spin bowling difficult and helping batsmen hit the ball easily. Historically, teams winning the toss choose to bowl first in such conditions. Factor this into your live gaming strategy on Tiger365.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">3. Analyze Squad Depth and Rotation</h3>
       <p class="mb-6">Multi-week tournaments are physically demanding. Teams with strong bench strength and all-rounders have a clear advantage. Check for injuries and player fatigue, as rotation policies might rest key players in less critical matches, affecting the outcome.</p>
@@ -177,43 +153,43 @@ const blogPosts = [
   },
   {
     id: 'cricket-id-vs-exchange',
-    title: 'Cricket ID vs Betting Exchange: What\'s the Difference?',
-    excerpt: 'Confused about cricket IDs and betting exchanges? We explain the key differences, advantages, and how Tiger365 ID gives you access to both.',
+    title: 'Cricket ID vs Gaming Exchange: What\'s the Difference?',
+    excerpt: 'Confused about cricket IDs and gaming exchanges? We explain the key differences, advantages, and how Tiger365 ID gives you access to both.',
     category: 'Beginner Guide',
     date: 'May 20, 2026',
     readTime: '6 min read',
     emoji: '📊',
     color: 'from-green-900/30 to-black',
     content: `
-      <p class="mb-6">For newcomers to online sports gaming in India, the terminology can be confusing. You might have heard terms like "Online Cricket ID" and "Betting Exchange" used interchangeably. However, they refer to two different aspects of the gaming ecosystem. Understanding the difference is crucial for a smooth gaming journey, and Tiger365 ID gives you access to both.</p>
+      <p class="mb-6">For newcomers to online sports gaming in India, the terminology can be confusing. You might have heard terms like "Online Cricket ID" and "Gaming Exchange" used interchangeably. However, they refer to two different aspects of the gaming ecosystem. Understanding the difference is crucial for a smooth gaming journey, and Tiger365 ID gives you access to both.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">What is an Online Cricket ID?</h3>
-      <p class="mb-6">Think of an Online Cricket ID as your universal passport or account. It is a secure username and password created by a trusted provider like Tiger365. This ID allows you to log into major betting platforms, deposit money securely in INR, and withdraw your winnings quickly via local methods like UPI or bank transfer.</p>
+      <p class="mb-6">Think of an Online Cricket ID as your universal passport or account. It is a secure username and password created by a trusted provider like Tiger365. This ID allows you to log into major gaming platforms, deposit money securely in INR, and withdraw your winnings quickly via local methods like UPI or bank transfer.</p>
       
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">What is a Betting Exchange?</h3>
-      <p class="mb-6">A traditional bookmaker sets the odds, and you bet against the house. In contrast, a <strong>Betting Exchange</strong> is a marketplace where players bet against other players. You can either back an outcome (agree that it will happen) or lay an outcome (bet that it will not happen). This gives you better odds and much more control over your bets.</p>
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">What is a Gaming Exchange?</h3>
+      <p class="mb-6">A traditional bookmaker sets the odds, and you play against the house. In contrast, a <strong>Gaming Exchange</strong> is a marketplace where players play against other players. You can either back an outcome (agree that it will happen) or lay an outcome (bet that it will not happen). This gives you better odds and much more control over your predictions.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">Why Choose Tiger365?</h3>
       <p class="mb-6">Tiger365 acts as a bridge. By getting a single Tiger365 ID, you gain direct access to India's top exchange platforms with 24/7 customer service and instant deposit/withdrawal processing, combining the best of both worlds.</p>
     `
   },
   {
-    id: 'safe-betting-tips',
-    title: '10 Tips for Safe and Responsible Betting in India',
-    excerpt: 'Stay safe while enjoying online sports betting. These 10 essential tips will help you bet responsibly, manage your bankroll, and avoid common mistakes.',
+    id: 'safe-gaming-tips',
+    title: '10 Tips for Safe and Responsible Gaming in India',
+    excerpt: 'Stay safe while enjoying online sports gaming. These 10 essential tips will help you play responsibly, manage your bankroll, and avoid common mistakes.',
     category: 'Safety',
     date: 'May 15, 2026',
     readTime: '8 min read',
     emoji: '🔒',
     color: 'from-purple-900/30 to-black',
     content: `
-      <p class="mb-6">Online sports betting is a thrilling way to engage with your favorite sports, but safety and responsibility should always be your top priorities. To ensure you have a fun and secure experience, we have compiled the top 10 tips for safe betting in India using a verified Tiger365 ID.</p>
+      <p class="mb-6">Online sports gaming is a thrilling way to engage with your favorite sports, but safety and responsibility should always be your top priorities. To ensure you have a fun and secure experience, we have compiled the top 10 tips for safe gaming in India using a verified Tiger365 ID.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">1. Use Only Verified Providers</h3>
       <p class="mb-6">Never buy IDs from unverified agents on social media. Always use official platforms like Tiger365 to ensure your funds are secure and you receive genuine support.</p>
       
-      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">2. Treat Betting as Entertainment, Not an Income</h3>
-      <p class="mb-6">Keep a healthy mindset. Betting is designed for amusement. When you view it as a primary source of income, it leads to stressful decision-making and poor choices.</p>
+      <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">2. Treat Gaming as Entertainment, Not an Income</h3>
+      <p class="mb-6">Keep a healthy mindset. Gaming is designed for amusement. When you view it as a primary source of income, it leads to stressful decision-making and poor choices.</p>
       
       <h3 class="text-2xl font-bold text-red-500 mt-8 mb-4">3. Keep Your Account Details Secure</h3>
       <p class="mb-6">Never share your Tiger365 ID password or PIN with anyone. Change your password periodically and use strong combinations of letters, numbers, and symbols.</p>
@@ -223,9 +199,9 @@ const blogPosts = [
     `
   },
   {
-    id: 'upi-betting-deposits',
-    title: 'How to Deposit and Withdraw via UPI for Betting',
-    excerpt: 'Step-by-step guide on making deposits and withdrawals for your cricket betting ID using UPI, IMPS, and other Indian payment methods.',
+    id: 'upi-gaming-deposits',
+    title: 'How to Deposit and Withdraw via UPI for Gaming',
+    excerpt: 'Step-by-step guide on making deposits and withdrawals for your cricket gaming ID using UPI, IMPS, and other Indian payment methods.',
     category: 'Payments',
     date: 'May 10, 2026',
     readTime: '3 min read',
@@ -300,7 +276,7 @@ export default async function BlogPostPage({ params }: PageProps) {
       {/* Info banner */}
       <div className="w-full bg-red-950/60 border-b border-red-500/20 py-2 px-4 text-center">
         <p className="text-xs text-red-300/80">
-          <span className="font-semibold">Note:</span> tiger365now.com is an informational website only and does not offer betting services.
+          <span className="font-semibold">Note:</span> tiger365now.com is an informational website only and does not offer gaming services.
         </p>
       </div>
 
