@@ -7,6 +7,315 @@ import { WA_LINK } from '@/components/constants';
 
 const blogPosts = [
   {
+    id: 'ipl-2027-trades-player-transfer-guide',
+    title: 'IPL 2027 Trades: Complete Player Transfer Guide & Latest Updates',
+    excerpt: 'The IPL 2027 player-trade window will be an important stage in preparations for the 20th edition of the Indian Premier League. Learn how trades work, differences from auctions, rules, and transfer tracking.',
+    category: 'IPL 2027',
+    date: 'September 16, 2026',
+    readTime: '7 min read',
+    emoji: '🔄',
+    color: 'from-yellow-900/30 to-black',
+    content: `
+      <p class="mb-6">The IPL 2027 player-trade window will be an important stage in preparations for the 20th edition of the Indian Premier League. Before franchises enter the auction, teams can assess their existing squads, identify areas that need improvement and consider player movements where permitted under the official IPL regulations.</p>
+
+      <p class="mb-6">Player trades can significantly change the composition of a franchise without requiring the player to enter the auction pool. They can also influence retention decisions and the way teams approach the subsequent auction.</p>
+
+      <p class="mb-6">For general cricket and tournament information, readers can also visit Tiger365Now.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">IPL 2027 Trades at a Glance</h2>
+      
+      <div class="overflow-x-auto my-6">
+        <table class="w-full text-left border-collapse border border-gray-800 rounded-lg overflow-hidden text-sm sm:text-base">
+          <thead>
+            <tr class="bg-red-950/50 text-red-400 border-b border-gray-800">
+              <th class="p-3 border border-gray-800 font-bold">Category</th>
+              <th class="p-3 border border-gray-800 font-bold">Status</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-800">
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Competition</td><td class="p-3 border border-gray-800 text-gray-400">Indian Premier League</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Season</td><td class="p-3 border border-gray-800 text-gray-400">IPL 2027</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Edition</td><td class="p-3 border border-gray-800 text-gray-400">20th</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Trade window</td><td class="p-3 border border-gray-800 text-gray-400">To be officially confirmed</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Final trade list</td><td class="p-3 border border-gray-800 text-gray-400">To be announced</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Participating teams</td><td class="p-3 border border-gray-800 text-gray-400">10 under the current IPL structure</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Auction</td><td class="p-3 border border-gray-800 text-gray-400">Separate event</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Trade rules</td><td class="p-3 border border-gray-800 text-gray-400">Subject to official IPL regulations</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="bg-red-950/40 border border-red-500/30 rounded-xl p-4 my-6 text-red-200 text-sm sm:text-base leading-relaxed">
+        <strong>Important:</strong> The final IPL 2027 trade window, eligible players and completed transfers should be confirmed through official IPL/BCCI announcements. Rumours and reported negotiations should not be treated as completed trades.
+      </div>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">What Is an IPL Player Trade?</h2>
+      <p class="mb-6">An IPL player trade is a transfer in which a player moves from one franchise to another under the league's approved trading rules.</p>
+      <p class="mb-6">This is different from an auction.</p>
+      <p class="mb-6">At the auction, franchises compete to acquire players from the available pool. A trade, on the other hand, involves an agreement between franchises regarding an existing player, subject to IPL approval and applicable regulations.</p>
+      <p class="mb-6">A trade can involve:</p>
+      <ul class="list-disc list-inside mb-6 space-y-2 text-gray-300 pl-2">
+        <li>A direct player transfer</li>
+        <li>A player-for-player exchange</li>
+        <li>Financial considerations where permitted</li>
+        <li>Changes to a franchise's squad composition</li>
+      </ul>
+      <p class="mb-6">The exact conditions depend on the regulations applicable to that IPL season.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Why Are IPL Trades Important?</h2>
+      <p class="mb-6">Franchises use squad-building periods to address specific requirements.</p>
+      <p class="mb-6">A team may identify a need for:</p>
+      <ul class="list-disc list-inside mb-6 space-y-2 text-gray-300 pl-2">
+        <li>An opening batter</li>
+        <li>A middle-order player</li>
+        <li>A wicketkeeper</li>
+        <li>A pace bowler</li>
+        <li>A spinner</li>
+        <li>An all-rounder</li>
+        <li>Additional squad depth</li>
+      </ul>
+      <p class="mb-6">Instead of waiting for the auction, a franchise may explore whether an existing player from another team fits its requirements.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">IPL 2027 Trade Window</h2>
+      <p class="mb-6">The exact dates for the IPL 2027 trading window have not been officially established in the information available here.</p>
+      <p class="mb-6">The trading period is normally separate from the auction and operates according to deadlines established by the IPL.</p>
+      <p class="mb-6">Before the 2027 season, official announcements should clarify:</p>
+      <ul class="list-disc list-inside mb-6 space-y-2 text-gray-300 pl-2">
+        <li>Opening date of the trade window</li>
+        <li>Closing date</li>
+        <li>Eligible players</li>
+        <li>Trading conditions</li>
+        <li>Retention rules</li>
+        <li>Purse implications</li>
+        <li>Final approved transfers</li>
+      </ul>
+      <p class="mb-6">Until those announcements are made, reported player movements should be described as potential or reported rather than confirmed.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">How IPL Trades Work</h2>
+      <p class="mb-6">The process generally involves several stages.</p>
+
+      <div class="space-y-4 mb-6">
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2"><span class="text-red-500">Step 1:</span> Franchise Identifies a Requirement</h3>
+          <p class="text-gray-300 text-sm sm:text-base">A team reviews its existing squad and determines which positions may need strengthening.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2"><span class="text-red-500">Step 2:</span> Teams Discuss a Potential Transfer</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Franchises can explore whether a player is available for a move.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2"><span class="text-red-500">Step 3:</span> Player Considerations</h3>
+          <p class="text-gray-300 text-sm sm:text-base">The relevant player may need to agree to the transfer depending on the applicable IPL rules and circumstances.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2"><span class="text-red-500">Step 4:</span> Official Approval</h3>
+          <p class="text-gray-300 text-sm sm:text-base">The transaction must comply with IPL regulations and be formally approved.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2"><span class="text-red-500">Step 5:</span> Updated Squad</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Once completed, the player's new franchise becomes part of the official squad structure.</p>
+        </div>
+      </div>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Trade vs IPL Auction</h2>
+      <p class="mb-6">The two mechanisms are often confused, but they work differently.</p>
+
+      <div class="overflow-x-auto my-6">
+        <table class="w-full text-left border-collapse border border-gray-800 rounded-lg overflow-hidden text-sm sm:text-base">
+          <thead>
+            <tr class="bg-red-950/50 text-red-400 border-b border-gray-800">
+              <th class="p-3 border border-gray-800 font-bold">Feature</th>
+              <th class="p-3 border border-gray-800 font-bold">Player Trade</th>
+              <th class="p-3 border border-gray-800 font-bold">IPL Auction</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-800">
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Participants</td><td class="p-3 border border-gray-800 text-gray-400">Existing franchise player</td><td class="p-3 border border-gray-800 text-gray-400">Player in auction pool</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Main parties</td><td class="p-3 border border-gray-800 text-gray-400">Two franchises</td><td class="p-3 border border-gray-800 text-gray-400">Multiple franchises</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Bidding</td><td class="p-3 border border-gray-800 text-gray-400">Not normally an auction process</td><td class="p-3 border border-gray-800 text-gray-400">Competitive bidding</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Timing</td><td class="p-3 border border-gray-800 text-gray-400">Trade window</td><td class="p-3 border border-gray-800 text-gray-400">Auction event</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Purpose</td><td class="p-3 border border-gray-800 text-gray-400">Squad adjustment</td><td class="p-3 border border-gray-800 text-gray-400">Player acquisition</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Approval</td><td class="p-3 border border-gray-800 text-gray-400">IPL rules apply</td><td class="p-3 border border-gray-800 text-gray-400">IPL auction rules apply</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="mb-6">A trade therefore allows franchises to make adjustments before the auction rather than relying exclusively on auction recruitment.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">IPL 2027 Player Transfers</h2>
+      <p class="mb-6">The complete list of IPL 2027 trades will only be available after the relevant transactions have been officially completed and announced.</p>
+      <p class="mb-6">A useful transfer tracker should distinguish between three categories:</p>
+
+      <ul class="list-none space-y-3 mb-6">
+        <li class="bg-[#141414] border border-gray-800 p-4 rounded-xl">
+          <strong class="text-red-400 block mb-1">Confirmed</strong>
+          <span class="text-gray-300 text-sm">The IPL or relevant franchise has officially announced the transfer.</span>
+        </li>
+        <li class="bg-[#141414] border border-gray-800 p-4 rounded-xl">
+          <strong class="text-yellow-400 block mb-1">Reported</strong>
+          <span class="text-gray-300 text-sm">A credible report indicates that discussions or negotiations are taking place, but the transaction has not been officially confirmed.</span>
+        </li>
+        <li class="bg-[#141414] border border-gray-800 p-4 rounded-xl">
+          <strong class="text-gray-400 block mb-1">Rumoured</strong>
+          <span class="text-gray-300 text-sm">The player has been linked with another franchise without sufficient confirmation of an actual deal.</span>
+        </li>
+      </ul>
+
+      <p class="mb-6">This distinction is particularly important during the IPL off-season because social media can quickly circulate unverified transfer claims.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">What Can Influence a Trade?</h2>
+      <p class="mb-6">Several factors can contribute to a franchise considering a player transfer.</p>
+
+      <div class="space-y-4 mb-6">
+        <div>
+          <h3 class="text-xl font-bold text-white mb-1">Squad Balance</h3>
+          <p class="text-gray-300">A team may have too many players competing for the same position while lacking depth elsewhere.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-bold text-white mb-1">Player Role</h3>
+          <p class="text-gray-300">A franchise may look for a player with a particular T20 skill set.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-bold text-white mb-1">Availability</h3>
+          <p class="text-gray-300">International commitments and player availability can influence squad planning.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-bold text-white mb-1">Team Strategy</h3>
+          <p class="text-gray-300">A new coaching or leadership setup can lead to different tactical requirements.</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-bold text-white mb-1">Auction Planning</h3>
+          <p class="text-gray-300">A trade can change the number of players a franchise needs to target at the auction.</p>
+        </div>
+      </div>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Impact on the IPL 2027 Auction</h2>
+      <p class="mb-6">Trades can have a direct effect on auction planning.</p>
+      <p class="mb-6">Suppose a franchise completes a trade for a specialist fast bowler. It may then have less need to target that role at the auction.</p>
+      <p class="mb-6">Similarly, if a team moves a player to another franchise, it may need to search for a replacement.</p>
+      <p class="mb-6">The relationship can therefore be viewed as:</p>
+
+      <div class="p-4 bg-[#161616] border border-red-500/30 rounded-xl text-red-400 font-semibold my-6 text-center text-sm sm:text-base overflow-x-auto whitespace-nowrap">
+        Trade Decisions &rarr; Squad Changes &rarr; Retention/Release Decisions &rarr; Auction Strategy &rarr; Final Squad
+      </div>
+
+      <p class="mb-6">This makes the trading period an important part of the wider IPL team-building process.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Player Retention and Trades</h2>
+      <p class="mb-6">Trades should also be considered alongside player retention.</p>
+      <p class="mb-6">Before an auction, franchises normally evaluate their squad and decide which players they want to retain, release or potentially move through approved trading mechanisms.</p>
+      <p class="mb-6">These decisions can affect:</p>
+      <ul class="list-disc list-inside mb-6 space-y-2 text-gray-300 pl-2">
+        <li>Squad size</li>
+        <li>Available purse</li>
+        <li>Overseas-player slots</li>
+        <li>Positional requirements</li>
+        <li>Auction priorities</li>
+      </ul>
+      <p class="mb-6">The exact retention rules for IPL 2027 will depend on the official regulations for the season.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Types of Players Who May Attract Interest</h2>
+      <p class="mb-6">Although no particular player's IPL 2027 transfer should be assumed before official confirmation, certain player profiles can naturally attract franchise attention.</p>
+
+      <div class="space-y-4 mb-6">
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Experienced T20 Players</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Players with substantial IPL or T20 experience can provide established match knowledge.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Young Indian Players</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Emerging domestic performers can provide franchises with additional squad depth and development potential.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">All-Rounders</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Players who contribute in both batting and bowling can offer tactical flexibility.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Specialist Bowlers</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Teams may search for specialists in areas such as powerplay or death-overs bowling.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Wicketkeepers</h3>
+          <p class="text-gray-300 text-sm sm:text-base">A reliable wicketkeeper who can also contribute with the bat can address two squad requirements simultaneously.</p>
+        </div>
+      </div>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">How Fans Can Track IPL 2027 Trades</h2>
+      <p class="mb-6">When following transfer news, it is useful to check the status of every reported move.</p>
+      <p class="mb-6">A simple tracking system can look like this:</p>
+
+      <div class="overflow-x-auto my-6">
+        <table class="w-full text-left border-collapse border border-gray-800 rounded-lg overflow-hidden text-sm sm:text-base">
+          <thead>
+            <tr class="bg-red-950/50 text-red-400 border-b border-gray-800">
+              <th class="p-3 border border-gray-800 font-bold">Status</th>
+              <th class="p-3 border border-gray-800 font-bold">Meaning</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-800">
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Rumour</td><td class="p-3 border border-gray-800 text-gray-400">Unconfirmed speculation</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Reported</td><td class="p-3 border border-gray-800 text-gray-400">Media reports indicate discussions</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Agreed</td><td class="p-3 border border-gray-800 text-gray-400">Parties reportedly reached an agreement</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Confirmed</td><td class="p-3 border border-gray-800 text-gray-400">Official announcement made</td></tr>
+            <tr class="hover:bg-gray-900/50"><td class="p-3 border border-gray-800 font-medium text-gray-300">Completed</td><td class="p-3 border border-gray-800 text-gray-400">Player appears in the new franchise's official squad</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="mb-6">This approach helps separate genuine announcements from social-media speculation.</p>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">What to Watch Before IPL 2027</h2>
+      <p class="mb-6">Several developments will shape the final squads.</p>
+
+      <ul class="list-disc list-inside mb-6 space-y-2 text-gray-300 pl-2">
+        <li><strong>Retention Announcements:</strong> These will determine which players remain with their franchises.</li>
+        <li><strong>Released Players:</strong> Released players may become available through the auction process.</li>
+        <li><strong>Trade Activity:</strong> Completed trades can reshape squads before auction day.</li>
+        <li><strong>Overseas Availability:</strong> International schedules can influence the availability of overseas players.</li>
+        <li><strong>Auction Purse:</strong> Changes to a franchise's available budget can affect how aggressively it approaches the auction.</li>
+      </ul>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">IPL 2027 Trades FAQs</h2>
+
+      <div class="space-y-4 my-6">
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">When will the IPL 2027 trade window open?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">The official 2027 trade-window dates have not yet been confirmed.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">What is an IPL player trade?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">It is an approved transfer of a player between IPL franchises under the league's applicable regulations.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Is a trade the same as an auction?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">No. A trade involves an existing franchise player moving between teams, while the auction involves franchises acquiring players from the official auction pool.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Can any IPL player be traded?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Not necessarily. Player eligibility and trading conditions are governed by the IPL's regulations for the relevant season.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Will IPL 2027 trades affect the auction?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">Yes. A completed trade can change a franchise's squad requirements and therefore influence its auction planning.</p>
+        </div>
+        <div class="bg-[#141414] border border-gray-800 rounded-xl p-5">
+          <h3 class="text-lg font-bold text-white mb-2">Where can I find confirmed IPL 2027 trades?</h3>
+          <p class="text-gray-300 text-sm sm:text-base">The safest approach is to check official IPL and franchise announcements rather than relying solely on social-media rumours.</p>
+        </div>
+      </div>
+
+      <h2 class="text-3xl font-bold text-red-500 mt-10 mb-4">Conclusion</h2>
+      <p class="mb-6">The IPL 2027 trade period will be an important part of the preparation for the 20th IPL season. Player movements can allow franchises to address squad requirements before the auction and may influence retention, releases and subsequent recruitment decisions.</p>
+      <p class="mb-6">However, the official 2027 trade window, eligible players and completed transfer list should be treated as unconfirmed until announced by the IPL, BCCI or the relevant franchises.</p>
+      <p class="mb-6">As the 2027 season approaches, separating confirmed transfers from reported negotiations and rumours will be essential for anyone following IPL squad developments.</p>
+      <p class="mb-6">For general cricket and tournament updates, readers can also visit Tiger365Now.</p>
+
+      <div class="bg-gray-900/60 border border-gray-800 rounded-xl p-4 my-8 text-gray-400 text-xs sm:text-sm leading-relaxed">
+        <strong>Disclaimer:</strong> This article is provided strictly for informational and educational purposes. Tiger365Now does not promote, endorse, or encourage betting or gambling in India. Readers should use sports information responsibly and comply with all applicable laws and regulations.
+      </div>
+    `
+  },
+  {
     id: 'asian-games-2026-campaign',
     title: 'India’s Asian Games Campaign Takes Shape as Athletes Prepare for Aichi-Nagoya 2026',
     excerpt: "India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event will bring together athletes from across Asia, with India competing in disciplines beyond cricket.",
