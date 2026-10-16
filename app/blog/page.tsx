@@ -36,6 +36,16 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
+    id: 'ipl-2027-trades-player-transfer-guide',
+    title: 'IPL 2027 Trades: Complete Player Transfer Guide & Latest Updates',
+    excerpt: 'The IPL 2027 player-trade window will be an important stage in preparations for the 20th edition of the IPL. Learn how trades work, differences from auctions, rules, and transfer tracking.',
+    category: 'IPL 2027',
+    date: 'September 16, 2026',
+    readTime: '7 min read',
+    emoji: '🔄',
+    color: 'from-yellow-900/30 to-black',
+  },
+  {
     id: 'asian-games-2026-campaign',
     title: 'India’s Asian Games Campaign Takes Shape as Athletes Prepare for Aichi-Nagoya 2026',
     excerpt: "India's sporting calendar is entering a crucial phase as athletes prepare for the 2026 Asian Games in Aichi-Nagoya, Japan. The continental event will bring together athletes from across Asia, with India competing in disciplines beyond cricket.",
