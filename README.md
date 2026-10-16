@@ -35,4 +35,4 @@ Open [http://localhost:3000](http://localhost:3000)
 - WhatsApp CTA throughout
 
 ## WhatsApp Link
-All CTAs link to: `https://wa.me/918949245951?text=Hi%2C%20I%20Want%20Tiger%20ID`
+All CTAs link to: `https://wa.me/919306604159`
